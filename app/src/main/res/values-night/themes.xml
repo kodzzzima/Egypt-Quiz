@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SimpleGame" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/peach</item>
+        <item name="colorPrimaryVariant">@color/sandy_brown</item>
+        <item name="colorOnPrimary">@color/black</item>
+    </style>
+</resources>

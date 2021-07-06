@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Egypt Quiz</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="button_start_test">Start test</string>
+    <string name="button_clear_statistic">Clear statistic</string>
+    <string name="score">Score:</string>
+    <string name="button_next">Next</string>
+    <string name="your_score">Your Score</string>
+    <string name="high_scores">High Scores</string>
+</resources>
